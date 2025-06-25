@@ -22,15 +22,15 @@ I’m a frontend-focused developer from India, crafting smooth UI/UX experiences
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnav-github&show_icons=true&theme=radical" alt="Arnav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnav2706&show_icons=true&theme=radical" alt="Arnav's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnav-github&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnav2706&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-github&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav2706&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
