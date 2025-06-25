@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer | Curious Coder | AI Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Fluent+in+C%2C+C%2B%2B%2C+Python%2C+Java;Exploring+AI+and+Chatbot+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Fluent+in+C%2C+C%2B%2B%2C+Python%2C+Java;Exploring+AI+and+Chatbot+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ I’m a frontend-focused developer from India, crafting smooth UI/UX experiences
 ---
 
 ### 📫 Connect With Me:
-- [INSTA](https://www.instagram.com/arnavvv._?igsh=bDhtYXN5aGt1dnJi)
+- [Instagram](https://www.instagram.com/arnavvv._?igsh=bDhtYXN5aGt1dnJi)
 - [LinkedIn](www.linkedin.com/in/arnav6363)
 
 ---
