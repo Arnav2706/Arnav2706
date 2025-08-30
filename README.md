@@ -45,7 +45,7 @@ I’m a frontend-focused developer from India, crafting smooth UI/UX experiences
 ---
 
 ### 📫 Connect With Me:
-- [Instagram](https://www.instagram.com/arnavvv._?igsh=bDhtYXN5aGt1dnJi)
+- [Instagram](https://www.instagram.com/_arnavvv.__/)
 - [LinkedIn](www.linkedin.com/in/arnav6363)
 
 ---
